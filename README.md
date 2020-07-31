@@ -19,6 +19,8 @@ The data was very messy so a very cutthroat process was used where most features
 ## Exploratory Data Analysis
 We used a heatmap to get correlation data to sales price. 
 
+![alt text](https://github.com/andrewmmeans/heavy-equipment-auction-price-prediction/blob/master/images/Screen%20Shot%202020-07-31%20at%205.46.02%20PM.png)
+
 ## Model
 We built a model using linear regression and a single train test split. 
 
