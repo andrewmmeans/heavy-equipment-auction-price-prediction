@@ -1,4 +1,5 @@
 # Predict Heavy Equipment Auction Price
+![alt text](https://github.com/andrewmmeans/heavy-equipment-auction-price-prediction/blob/master/images/wheel.jpeg)
 
 ## Background
 Data on heavy equipment was used to try to predict the sale price of a particular piece of heavy equipment at auction. 
