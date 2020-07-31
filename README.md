@@ -2,7 +2,7 @@
 ![alt text](https://github.com/andrewmmeans/heavy-equipment-auction-price-prediction/blob/master/images/wheel.jpeg)
 
 ## Background
-Heavy equipment goes to auction. We are trying to predict the sale price of a particular piece of heavy equipment at auction. 
+Heavy equipment goes to auction, and nobody wants to over-pay. So we are trying to predict the sale price of a particular piece of heavy equipment at auction. 
 
 ## Data Acquisition 
 The data is sourced from auction result postings and includes information on usage, equipment configurations, and a data dictionary to explain the columns in the data.
