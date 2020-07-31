@@ -36,4 +36,16 @@ Which is computed as follows:
 where *p<sub>i</sub>* are the predicted values (predicted auction sale prices) 
 and *a<sub>i</sub>* are the actual values (the actual auction sale prices).
 
-model_rmsel = 0.597
+Our score was: RMSL = 0.597
+
+
+## Another model
+
+For this one, we worked with one product group, Backhoe Loaders.
+We used more specific feature list: YearMade, Enclosure and Stick.
+Our score turned out to be better: RMSL = 0.100
+
+
+
+
+
