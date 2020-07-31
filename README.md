@@ -36,3 +36,4 @@ Which is computed as follows:
 where *p<sub>i</sub>* are the predicted values (predicted auction sale prices) 
 and *a<sub>i</sub>* are the actual values (the actual auction sale prices).
 
+model_rmsel = 0.597
