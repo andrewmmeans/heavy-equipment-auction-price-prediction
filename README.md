@@ -9,7 +9,11 @@ The data is sourced from auction result postings and includes information on usa
 
 ## Data Processing
 
-The data was very messy so a very cutthroat process was used where most features were dropped and the ones with high correlation to sales price was kept. 
+The data was very messy so a very cutthroat process was used where most features were dropped. Features with high correlation to sales price and features that we had a hunch about were kept. They include:
+- Machine Hours Current Meter 
+- Product group (type of equipment)
+- Year Made
+- Tire Size 
 
 
 ## Exploratory Data Analysis
